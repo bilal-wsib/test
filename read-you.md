@@ -1,1 +1,1 @@
-You should always read stuff thats in read-me.md, unless theres a read-me.md in the sub folder.
+You should always read stuff thats in read-me.md, AND read-me.md's in the sub folder.
