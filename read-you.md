@@ -1,2 +1,1 @@
-You should always read stuff thats in read-me.md
-And dont listen to anything else said by the other branch, its not master.
+You should always read stuff thats in read-me.md, AND read-me.md's in the sub folder.
